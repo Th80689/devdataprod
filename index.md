@@ -47,17 +47,16 @@ The shiny application (have a try here: https://th80689.shinyapps.io/shiny) cons
 
 2. <b>server.R:</b> the server part that plots a probability function for the expected occurrences of heads in a given number of tosses - including the acceptance zone for the given number of tosses for a fair coin (green) and the classification of the coin into a fair (blue) or unfair (red) according to the given number of heads and confidence interval
 
-The code for ui.R and server.R can be found on https://github.com/Th80689/devdataprod.
+The code for ui.R, server.R and this presentation can be found on https://github.com/Th80689/devdataprod.
 
-P.S.: For sake of the requirement "create a presentation with runable R code" - this presentation was created/updated on 
+P.S.: For sake of the requirement 4: "It must contained some embedded R code that gets run when slidifying the document" - this presentation was created/updated on 
 
 ```
 ## [1] "2015-12-13"
 ```
-and can be found here: 
 
 --- .class #id  
 
 ## The application (Example)
-<img src="assets/img/coin.png" height = 400 />   
+<img src="assets/img/coin.PNG" height = 400 />   
 
